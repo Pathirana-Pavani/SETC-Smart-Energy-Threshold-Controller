@@ -73,9 +73,9 @@ The device features a simple interface to manage energy limits.
 
 ## 📸 Gallery
 <p align="center">
-  <img src="https://github.com/Pathirana-Pavani/SETC-Smart-Energy-Threshold-Controller/blob/main/images/device_iso.jpeg" width="30%" alt="Device Iso">
-  <img src="https://github.com/Pathirana-Pavani/SETC-Smart-Energy-Threshold-Controller/blob/main/images/device_internal.jpeg" width="30%" alt="Internal Wiring">
-  <img src="https://github.com/Pathirana-Pavani/SETC-Smart-Energy-Threshold-Controller/blob/main/images/device_working.jpeg" width="30%" alt="Working Device">
+  <img src="https://github.com/Pathirana-Pavani/SETC-Smart-Energy-Threshold-Controller/blob/main/images/All_Products.jpeg" width="30%" alt="Device Iso">
+  <img src="https://github.com/Pathirana-Pavani/SETC-Smart-Energy-Threshold-Controller/blob/main/images/inside.jpeg" width="30%" alt="Internal Wiring">
+  <img src="https://github.com/Pathirana-Pavani/SETC-Smart-Energy-Threshold-Controller/blob/main/images/Working_Setup.jpeg" width="30%" alt="Working Device">
 </p>
 
 ## 👥 Contributors
