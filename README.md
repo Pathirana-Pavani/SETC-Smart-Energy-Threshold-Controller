@@ -5,7 +5,6 @@
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-success)
 ![Platform](https://img.shields.io/badge/Platform-ESP32-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📌 Project Overview
 The **Smart Energy Threshold Controller (SETC)** is an intelligent, offline plug-and-play device designed to monitor real-time energy consumption and automatically disconnect loads when a user-defined energy threshold is exceeded.
